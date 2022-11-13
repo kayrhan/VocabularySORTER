@@ -7,7 +7,6 @@ A web application to keep your vocabulary for foreign languages. The application
 - Add new words.
 - Update existing words.
 - Delete existing words.
-- Search words.
 - Export words to XLSX.
 
 ## Future Features
@@ -15,3 +14,4 @@ A web application to keep your vocabulary for foreign languages. The application
 - Import words from XLSX.
 - Add new languages.
 - Sort by language.
+- Search words.
